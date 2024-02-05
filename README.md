@@ -38,4 +38,4 @@ For this midterm project, the goals are as follows:
    Summarize and interpret the key findings derived from the analysis. Provide insights into the transmission patterns, risk categorization, and specific data related to Brazil.
 
 ## Development Details
-This analyses is built entirely using Python.
+This analyses is built entirely using Jupiter and writen in Python.
